@@ -1,6 +1,6 @@
 # Github Trends
 
-A progressive Web Application. Discover trending github repositories. You can filter by coding language or time frequency. Built with React.
+A progressive Web Application. Discover trending GitHub repositories. You can filter by coding language or time-frequency. Built with React.
 
 [Live demo](https://awesome-github-trends.netlify.app)
 
