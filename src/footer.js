@@ -4,11 +4,10 @@ const Footer = () => {
   return (
     <footer className="footer">
       <p>
-        Built by <a href="https://twitter.com/awesomeyinka">Yinka Adedire</a>
+        Built by <a href="https://twitter.com/yinkakun">Yinka Adedire</a>
       </p>
       <p>
-        Star on{' '}
-        <a href="https://github.com/awesomeyinka/github-trends">Github</a>
+        Star on <a href="https://github.com/yinkakun/trendingrepos">Github</a>
       </p>
     </footer>
   );
