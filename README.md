@@ -1,18 +1,12 @@
-# Github Trends
+# Trending Repos
 
-A progressive Web Application. Discover trending GitHub repositories. You can filter by coding language or time-frequency. Built with React.
+A progressive Web Application to help you discover trending GitHub repositories. You can filter by coding language or time-frequency. Built with React.
 
-[Live demo](https://awesome-github-trends.netlify.app)
+[Live demo](https://trendingrepos.netlify.app)
 
 ![Screenshot](github-trends-screenshot.png)
 
 ## Project setup
-
-### Clone repository
-
-```sh
-git clone https://github.com/awesomeyinka/github-trends.git
-```
 
 ### Install dependencies
 
