@@ -29,7 +29,6 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^7.3.0",
     "eslint-config-airbnb": "^18.1.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-import": "^2.20.2",
