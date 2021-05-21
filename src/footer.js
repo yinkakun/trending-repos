@@ -7,7 +7,7 @@ const Footer = () => {
         Built by <a href="https://twitter.com/yinkakun">Yinka Adedire</a>
       </p>
       <p>
-        Star on <a href="https://github.com/yinkakun/trendingrepos">Github</a>
+        Star on <a href="https://github.com/yinkakun/trending-repos">Github</a>
       </p>
     </footer>
   );
