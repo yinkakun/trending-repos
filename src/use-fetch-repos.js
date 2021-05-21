@@ -41,7 +41,7 @@ const useFetchRepos = (codeLanguageQuery, timePeriodQuery) => {
       dispatch({ type: 'FETCH_INIT' });
       try {
         const response = await fetch(
-          `https://ghapi.huchen.dev/repositories?language=${codeLanguageQuery}&since=${timePeriodQuery}`
+          `https://gtrend.yapie.me/repositories?language=${codeLanguageQuery}&since=${timePeriodQuery}`
         );
 
         let repos = await response.json();
